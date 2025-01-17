@@ -1,6 +1,7 @@
 # cookiecutter_project
 
 Trying out the cookiecutter template :)
+need to update with how to run + requirements
 
 ## Project structure
 
